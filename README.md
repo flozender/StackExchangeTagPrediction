@@ -5,8 +5,8 @@
 
 ### Model Design
 
-#### Dataset and Characteristics
+### Dataset and Characteristics
 
-#### Research Questions
+### Research Questions
 
-#### Machine Learning Models and Algorithms
+### Machine Learning Models and Algorithms
