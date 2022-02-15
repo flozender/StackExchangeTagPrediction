@@ -12,3 +12,13 @@ One of the more pertinent questions that we will have to answer will be related 
 This will answered by comparing models developed using both methods. Which model is more effective? Which model was more difficult to develop and train? Are the tradeoffs worth it? All of these questions will need to be answered before deciding on the model to use for our project. Another important question that is related to the feasibility of our project as a whole is how often people use tags in their stack exchange posts. This will directly affect the possible size of our training sets, and thus the plausibility of developing an effective model. 
 
 ### Machine Learning Models and Algorithms
+We will be using two main pre-processing word embedding techniques to build our input features which will then be used with multi-class classification algorithms such as: 
+
+* Decision Trees.
+* Naive Bayes.
+* Random Forest.
+* K-Nearest Neighbors.
+
+Where the classes are tags that can be attributed to a question. We will be comparing the results of the combination of different pre-processing with the machine learning algorithms.  
+
+Another type of algorithm we hope to try is Long-Short Term Memory(LSTM) neural networks. Built on top of recurrent neural networks LTSMs are uniquely advantage when it comes to text classification. Seeing how it performs vs more traditional algorithms, using word embeddings, should make for an interesting comparison. 
