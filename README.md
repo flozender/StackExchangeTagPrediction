@@ -7,5 +7,7 @@ Thousands of questions are asked on Stack Exchange everyday, which makes navigat
 ### Dataset and Characteristics
 
 ### Research Questions
+One of the more pertinent questions that we will have to answer will be related to the approach we use in trying to make the predictions. Will a model designed around producing predictions based on the frequency of the appearance of certain words be sufficient, or will the extraction of some type of 'meaning' from the combination of words using NLP technology be necessary in developing predictions that are adequately useful?
+This will answered by comparing models developed using both methods. Which model is more effective? Which model was more difficult to develop and train? Are the tradeoffs worth it? All of these questions will need to be answered before deciding on the model to use for our project. Another important question that is related to the feasibility of our project as a whole is how often people use tags in their stack overflow posts. This will directly affect the possible size of our training sets, and thus the plausibility of developing an effective model. 
 
 ### Machine Learning Models and Algorithms
