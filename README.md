@@ -1,6 +1,6 @@
 # Stack Exchange Question Tag Assignment
 
-#### SOEN 471/SOEN 6111 - Big Data
+#### SOEN 471/SOEN 6111 - Big Data - Team 17
 
 ## Project Definition
 
