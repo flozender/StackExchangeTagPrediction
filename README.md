@@ -18,4 +18,4 @@ Another important question that is related to the feasibility of our project as 
 
 ### Machine Learning Models and Algorithms
 
-We will be using two main pre-processing techniques - TFIDF and Word Embeddings to build our input features, which will then be used with classification algorithms such as Decision Trees. Another type of algorithm we hope to implement is Long-Short Term Memory (LSTM) neural networks.
+We will be using two main pre-processing techniques - TFIDF and Word Embeddings to build our input features, which will then be used with supervised classification algorithms such as Decision Trees. Another type of algorithm we hope to implement is Long-Short Term Memory (LSTM) neural networks.
